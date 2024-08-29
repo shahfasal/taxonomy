@@ -1,0 +1,5 @@
+Title of work: ROSA documents
+Link to work: https://gitlab.cee.redhat.com/ddis/jarvis/instruct-taxonomy
+Revision: https://gitlab.cee.redhat.com/ddis/jarvis/instruct-taxonomy
+License of the work: CC-BY-SA-4.0
+Creator names: Andrew
